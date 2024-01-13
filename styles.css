@@ -1,0 +1,8 @@
+.container{
+    display: flex;
+    width: 1000px;
+    border: solid black 5px;
+    background-color: white;
+    height: 750px;
+    margin: auto;
+}
